@@ -1,0 +1,38 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.featured-items {
+    margin-top: 50px;
+}
+
+.featured-items h2 {
+    text-align: center;
+}
+
+.featured-item {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.featured-item img {
+    max-width: 100%;
+    height: auto;
+}
+
+.featured-item h3 {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-size: 1.2rem;
+}
+
+.featured-item p {
+    color: #666;
+}
